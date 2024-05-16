@@ -4,6 +4,7 @@ import { MdLocalHospital } from "react-icons/md";
 import { MdHotel } from "react-icons/md";
 import { MdOutlineRestaurantMenu } from "react-icons/md";
 import { MdTour } from "react-icons/md";
+import { NavLink } from 'react-router-dom';
 // import hospital from '../assets/hospital.png'
 
 const About = () => {
@@ -29,14 +30,14 @@ const About = () => {
             </div>
 
 
-            <div className='border rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
+            <NavLink  to="hotels" className='border rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
                 {/* <MdStorage className='p-2 bg-blue-400 rounded-full text-white' size={45}/> */}
                 <MdHotel className='p-2 size-24 bg-blue-400 rounded-full text-white' size={45} />
 
                 <h1 className='font-semibold text-white text-xl py-2'>Hotels</h1>
 
                 <p className='text-white'>In Nagpur, the best hotels redefine hospitality, offering unparalleled luxury, impeccable service, and unforgettable experiences that epitomize elegance and comfort, making them the premier choice for discerning travelers seeking a truly exceptional stay.</p>
-            </div>
+            </NavLink>
 
 
             <div className='border rounded p-6 hover:scale-105 duration-300 cursor-pointer'>

@@ -13,6 +13,8 @@ import Login from './components/Login.jsx';
 import Home from './components/Home.jsx';
 import Signup from './components/Signup.jsx';
 import { ProtectedRoute } from './protectedRoute/ProtetedRoute.jsx';
+import HotelList from './pages/HotelList.jsx';
+
 
 const router = createBrowserRouter(
   createRoutesFromElements(
@@ -23,6 +25,7 @@ const router = createBrowserRouter(
       </ProtectedRoute>}/>
       <Route path="login" element={<Login/>}/>
       <Route path="signup" element={<Signup/>}/>
+      <Route path="hotels" element={<HotelList/>}/>
     </Route>
   )
 )

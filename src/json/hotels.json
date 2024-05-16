@@ -1,0 +1,171 @@
+[
+    {
+      "id": 1,
+      "name": "The Pride Hotel",
+      "location": "Wardha Road, Nagpur",
+      "price": "$120",
+      "rating": 4.5,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/66098306.jpg?k=8f312d4dca1b5a36eac94d5b73b86e662c00d0b8bd03160f8b8a4ea0c60ff98f&o=&hp=1",
+      "description": "The Pride Hotel is a luxury hotel located on Wardha Road, Nagpur. It offers spacious rooms, fine dining restaurants and leisure travelers.",
+      "contact": {
+        "phone": "123-456-7890",
+        "email": "info@pridehotel.com",
+        "website": "https://www.pridehotel.com"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Radisson Blu Hotel Nagpur",
+      "location": "Wardha Road, Nagpur",
+      "price": "$150",
+      "rating": 4.6,
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/b5/6b/d7/getlstd-property-photo.jpg?w=700&h=-1&s=1",
+      "description": "Radisson Blu Hotel Nagpur is a contemporary hotel situated on Wardha Road, Nagpur. It features elegant rooms and multiple dining options",
+      "contact": {
+        "phone": "234-567-8901",
+        "email": "info@radissonblunagpur.com",
+        "website": "https://www.radissonblu.com"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Tuli International Hotel",
+      "location": "Sadar, Nagpur",
+      "price": "$100",
+      "rating": 4.3,
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/b3/8c/dc/hotel-tuli-international.jpg?w=700&h=-1&s=1",
+      "description": "Tuli International Hotel is a boutique hotel located in Sadar, Nagpur. It offers comfortable accommodation, a rooftop restaurant with city views, and easy access to Nagpur's attractions.",
+      "contact": {
+        "phone": "345-678-9012",
+        "email": "info@tuliinternational.com",
+        "website": "https://www.tuliinternational.com"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Hotel Centre Point",
+      "location": "Ramdaspeth, Nagpur",
+      "price": "$110",
+      "rating": 4.4,
+      "image": "https://example.com/centre-point.jpg",
+      "description": "Hotel Centre Point is located in the heart of Ramdaspeth, Nagpur. It features modern rooms, a rooftop swimming pool, and a fitness center.",
+      "contact": {
+        "phone": "456-789-0123",
+        "email": "info@hotelcentrepoint.com",
+        "website": "https://www.hotelcentrepoint.com"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Hotel Airport Centre Point",
+      "location": "Wardha Road, Nagpur",
+      "price": "$90",
+      "rating": 4.2,
+      "image": "https://example.com/airport-centre-point.jpg",
+      "description": "Hotel Airport Centre Point is conveniently located near Nagpur Airport on Wardha Road. It offers comfortable accommodation and easy access to transportation links.",
+      "contact": {
+        "phone": "567-890-1234",
+        "email": "info@airportcentrepoint.com",
+        "website": "https://www.airportcentrepoint.com"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Hotel Hardeo",
+      "location": "Sitabuldi, Nagpur",
+      "price": "$80",
+      "rating": 4.0,
+      "image": "https://example.com/hotel-hardeo.jpg",
+      "description": "Hotel Hardeo is a budget-friendly hotel located in Sitabuldi, Nagpur. It offers affordable accommodation, a restaurant serving Indian cuisine, and friendly service.",
+      "contact": {
+        "phone": "678-901-2345",
+        "email": "info@hotelhardeo.com",
+        "website": "https://www.hotelhardeo.com"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Hotel Blue Diamond",
+      "location": "Wardha Road, Nagpur",
+      "price": "$95",
+      "rating": 4.1,
+      "image": "https://example.com/blue-diamond.jpg",
+      "description": "Hotel Blue Diamond is situated on Wardha Road, Nagpur. It offers comfortable rooms, a multi-cuisine restaurant, and banquet facilities for events and functions.",
+      "contact": {
+        "phone": "789-012-3456",
+        "email": "info@hotelbluediamond.com",
+        "website": "https://www.hotelbluediamond.com"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Hotel Siddhartha Inn",
+      "location": "Ganeshpeth, Nagpur",
+      "price": "$85",
+      "rating": 4.0,
+      "image": "https://example.com/siddhartha-inn.jpg",
+      "description": "Hotel Siddhartha Inn is located in Ganeshpeth, Nagpur. It provides budget accommodation, a vegetarian restaurant, and convenient access to nearby attractions.",
+      "contact": {
+        "phone": "890-123-4567",
+        "email": "info@siddharthainn.com",
+        "website": "https://www.siddharthainn.com"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Hotel Ashok",
+      "location": "Ramdaspeth, Nagpur",
+      "price": "$105",
+      "rating": 4.3,
+      "image": "https://example.com/hotel-ashok.jpg",
+      "description": "Hotel Ashok is situated in the bustling area of Ramdaspeth, Nagpur. It offers comfortable rooms, a rooftop terrace, and personalized services for guests.",
+      "contact": {
+        "phone": "901-234-5678",
+        "email": "info@hotelashok.com",
+        "website": "https://www.hotelashok.com"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Hotel The Nagpur Ashok",
+      "location": "Wardha Road, Nagpur",
+      "price": "$115",
+      "rating": 4.4,
+      "image": "https://example.com/nagpur-ashok.jpg",
+      "description": "Hotel The Nagpur Ashok is located on Wardha Road, Nagpur. It features well-appointed rooms, a swimming pool, and a fitness center for guests' convenience.",
+      "contact": {
+        "phone": "012-345-6789",
+        "email": "info@thenagpurashok.com",
+        "website": "https://www.thenagpurashok.com"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Hotel Centre Palace",
+      "location": "Sitabuldi, Nagpur",
+      "price": "$95",
+      "rating": 4.2,
+      "image": "https://example.com/centre-palace.jpg",
+      "description": "Hotel Centre Palace is situated in the heart of Sitabuldi, Nagpur. It offers comfortable accommodation, a rooftop restaurant, and easy access to shopping and dining options.",
+      "contact": {
+        "phone": "123-456-7890",
+        "email": "info@hotelpalace.com",
+        "website": "https://www.hotelpalace.com"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Hotel President",
+      "location": "Sadar, Nagpur",
+      "price": "$110",
+      "rating": 4.3,
+      "image": "https://example.com/hotel-president.jpg",
+      "description": "Hotel President is a modern hotel located in Sadar, Nagpur. It features contemporary rooms, a fitness center, and a restaurant serving a variety of cuisines.",
+      "contact": {
+        "phone": "234-567-8901",
+        "email": "info@hotelpresident.com",
+        "website": "https://www.hotelpresident.com"
+      }
+    }
+  ]
+  
