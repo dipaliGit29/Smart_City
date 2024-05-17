@@ -9,6 +9,7 @@ import { NavLink } from 'react-router-dom';
 
 const About = () => {
   return (
+    
     <section name='about' className='w-full md:h-screen flex flex-col justify-center items-center bg-black px-6 py-6'>
 
         <h1 className='text-3xl text-center font-semibold text-slate-100'>Get the Best of the city at one place</h1>
@@ -17,7 +18,7 @@ const About = () => {
 
         <div className='w-11/12 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-6'>
 
-            <div className='border rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
+            <NavLink to="hospital" className='border rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
                 {/* <MdSecurity className='p-2 bg-blue-400 rounded-full text-white' size={45}/> */}
                 <MdLocalHospital className='p-2 size-24 bg-red-800 rounded-full text-white' size={45}/>
                {/* <div className='h-10 w-8'>
@@ -27,7 +28,7 @@ const About = () => {
                 <h1 className='font-semibold text-white text-xl py-2'>Hospitals</h1>
 
                 <p className='text-white'>In Nagpur, the best hospitals are synonymous with excellence, offering cutting-edge facilities, expert medical care, and unwavering dedication to patient well-being, setting the standard for healthcare excellence in our community.</p>
-            </div>
+            </NavLink>
 
 
             <NavLink  to="hotels" className='border rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
@@ -49,13 +50,15 @@ const About = () => {
             </div>
 
 
-            <div className='border rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
+            <NavLink to="tourist" className='border rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
                 {/* <MdOutlineWifiProtectedSetup className='p-2 bg-blue-400 rounded-full text-white' size={45}/> */}
                 <MdTour className='p-2 size-24 bg-green-400 rounded-full text-white' size={45}/>
                 <h1 className='font-semibold text-white text-xl py-2'>Tourist Attractions</h1>
 
                 <p className='text-white'>In Nagpur, the top tourist attractions blend history, culture, and breathtaking scenery, captivating visitors with iconic landmarks, immersive experiences, and a rich tapestry of sights and sounds that promise unforgettable adventures, making them must-visit destinations for travelers seeking to explore our vibrant cityscape.</p>
-            </div>
+            </NavLink>
+
+            
 
 
 

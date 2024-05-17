@@ -28,7 +28,7 @@ function HotelList() {
               key={hotel.id}
               className="max-w-sm m-4 mt-20 rounded overflow-hidden shadow-lg bg-gray-800"
             >
-              <img className="w-full" src={hotel.image} alt={hotel.name} />
+              <img className="w-full h-64" src={hotel.image} alt={hotel.name} />
               <div className="px-6 py-4">
                 <div className="font-bold text-xl mb-2">{hotel.name}</div>
                 <p className="text-gray-400 text-base">{hotel.description}</p>

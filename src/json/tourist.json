@@ -1,0 +1,92 @@
+{
+    "city": "Nagpur",
+    "tourist_places": [
+        {
+            "name": "Futala Lake",
+            "description": "Futala Lake is a popular hangout spot featuring a picturesque lake, colorful fountains, and vibrant evening atmosphere with food stalls and recreational activities.",
+            "location": "Futala Lake, Nagpur",
+            "distance_from_center_km": 6,
+            "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/a9/92/cd/clean-and-variety-of.jpg?w=1200&h=-1&s=1"
+          },
+      
+      {
+        "name": "Ambazari Lake",
+        "description": "Ambazari Lake is a picturesque lake located in the heart of Nagpur. It offers boating facilities and a lovely promenade for leisurely walks.It has an garden also by the  side",
+        "location": "Ambazari Lake, Nagpur",
+        "distance_from_center_km": 5,
+        "image_url": ""
+      },
+      {
+        "name": "Dragon Palace Temple",
+        "description": "Dragon Palace Temple is a beautiful Buddhist temple known for its intricate architecture and serene surroundings.It's an important pilgrimage site for Buddhists.",
+        "location": "Kamptee Road, Nagpur",
+        "distance_from_center_km": 10,
+        "image_url": "https://example.com/dragon_palace_temple.jpg"
+      },
+      {
+        "name": "Deekshabhoomi",
+        "description": "Deekshabhoomi is a sacred monument where Dr. B. R. Ambedkar converted to Buddhism along with his followers. It's an important pilgrimage site for Buddhists.",
+        "location": "Deekshabhoomi, Nagpur",
+        "distance_from_center_km": 7,
+        "image_url": "https://example.com/deekshabhoomi.jpg"
+      },
+      {
+        "name": "Raman Science Centre",
+        "description": "Raman Science Centre is an interactive science museum that offers hands-on exhibits, planetarium shows, and educational programs for visitors of all ages.",
+        "location": " Gandhisagar Lake, Nagpur",
+        "distance_from_center_km": 3,
+        "image_url": "https://example.com/raman_science_centre.jpg"
+      },
+      
+      {
+        "name": "Seminary Hill",
+        "description": "Seminary Hill offers panoramic views of Nagpur city. It's a great spot for a leisurely walk amidst lush greenery and historical landmarks. Beautiful place for bird watchers",
+        "location": "Seminary Hill, Nagpur",
+        "distance_from_center_km": 4,
+        "image_url": "https://example.com/seminary_hill.jpg"
+      },
+      {
+        "name": "Maharajbagh Zoo",
+        "description": "Maharajbagh Zoo, also known as Dr. Babasaheb Ambedkar Zoological Park, is a popular zoo in Nagpur housing a variety of animals and birds.",
+        "location": "Maharajbagh Zoo, Nagpur",
+        "distance_from_center_km": 3.5,
+        "image_url": "https://example.com/maharajbagh_zoo.jpg"
+      },
+      {
+        "name": "Telankhedi Shiv Temple",
+        "description": "Telankhedi Shiv Temple is an ancient temple dedicated to Lord Shiva, situated on the outskirts of Nagpur amidst natural surroundings.",
+        "location": "Telankhedi Shiv Temple, Nagpur",
+        "distance_from_center_km": 8,
+        "image_url": "https://example.com/telankhedi_shiv_temple.jpg"
+      },
+      {
+        "name": "Japanese Rose Garden",
+        "description": "Japanese Rose Garden is a serene garden known for its beautiful rose varieties and peaceful ambiance, perfect for a relaxing stroll with family and loved ones.",
+        "location": "Japanese Rose Garden, Nagpur",
+        "distance_from_center_km": 9,
+        "image_url": "https://example.com/japanese_rose_garden.jpg"
+      },
+      {
+        "name": "Sri Poddareshwar Ram Mandir",
+        "description": "Sri Poddareshwar Ram Mandir is a Hindu temple dedicated to Lord Rama, known for its intricate architecture and religious significance.",
+        "location": "Sri Poddareshwar Ram Mandir",
+        "distance_from_center_km": 2.5,
+        "image_url": "https://example.com/sri_poddareshwar_ram_mandir.jpg"
+      },
+      {
+        "name": "Krazy Castle Aqua Park",
+        "description": "Krazy Castle Aqua Park is a fun-filled water park offering thrilling rides, slides, and water attractions for visitors of all ages.",
+        "location": "Krazy Castle Aqua Park, Nagpur",
+        "distance_from_center_km": 12,
+        "image_url": "https://example.com/krazy_castle_aqua_park.jpg"
+      },
+      {
+        "name": "Telankhedi Lake",
+        "description": "Telankhedi Lake is a serene lake surrounded by lush greenery, offering a peaceful atmosphere for picnics and leisure activities.",
+        "location": "Telankhedi Lake, Nagpur",
+        "distance_from_center_km": 8,
+        "image_url": "https://example.com/telankhedi_lake.jpg"
+      }
+    ]
+  }
+  

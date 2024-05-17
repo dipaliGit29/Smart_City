@@ -1,0 +1,87 @@
+[
+    {
+      "name": "Sarakshi Netralaya",
+      "address": "19, Rajiv Nagar, Near Jaiprakash Nagar Metro Station, Wardha Road, Nagpur – 440025",
+      "phone": "+91 712 229 5630",
+      "image": "https://sarakshinetralaya.com/assets/images/sarakshi-netralaya.jpg",
+      "description": "Sarakshi Netralaya is a super-specialty eye hospital offering comprehensive ophthalmic care with advanced technology such as 3D surgery and widefield retinal imaging."
+    },
+    {
+      "name": "Mahatme Eye Bank Eye Hospital",
+      "address": "Plot No. 12, North Ambazari Road, Near Laxmi Nagar Square, Nagpur – 440010",
+      "phone": "+91 712 222 4422",
+      "image": "https://www.mahatmehospital.com/images/logo.jpg",
+      "description": "A leading eye hospital known for its eye bank and comprehensive eye care services including corneal transplants and cataract surgery."
+    },
+    {
+      "name": "Shree Ganesh Vinayak Eye Hospital",
+      "address": "Central Bazar Road, Ramdaspeth, Nagpur – 440010",
+      "phone": "+91 712 245 2950",
+      "image": "https://sgveyehospital.com/images/hospital.jpg",
+      "description": "Specializes in cataract surgery, glaucoma treatment, and LASIK vision correction."
+    },
+    {
+      "name": "Neuro Eye and Research Institute",
+      "address": "Shivaji Nagar, Nagpur – 440010",
+      "phone": "+91 712 222 1234",
+      "image": "https://neuroeyehospital.com/images/neuro-eye.jpg",
+      "description": "Focuses on neuro-ophthalmology, offering advanced diagnostics and treatment for complex eye conditions."
+    },
+    {
+      "name": "Netradeep Eye Hospital",
+      "address": "Subhash Nagar, Trimurti Nagar, Nagpur – 440022",
+      "phone": "+91 712 255 5656",
+      "image": "https://netradeepeyehospital.com/images/netradeep.jpg",
+      "description": "Provides specialized care in pediatric ophthalmology and retinal diseases."
+    },
+    {
+      "name": "Lata Mangeshkar Hospital",
+      "address": "Hingna Road, Nagpur – 440016",
+      "phone": "+91 712 280 1010",
+      "image": "https://lmh.edu.in/images/hospital.jpg",
+      "description": "A multi-specialty hospital with a dedicated ophthalmology department offering comprehensive eye care services."
+    },
+    {
+      "name": "Disha Eye Hospitals",
+      "address": "Gokulpeth, Nagpur – 440010",
+      "phone": "+91 712 255 1111",
+      "image": "https://dishaeyehospitals.com/images/disha.jpg",
+      "description": "Known for state-of-the-art facilities and treatments for cataract, glaucoma, and diabetic retinopathy."
+    },
+    {
+      "name": "Shri Ganapati Netralaya",
+      "address": "Kamptee Road, Nagpur – 440026",
+      "phone": "+91 712 277 7777",
+      "image": "https://ganapatinetralaya.com/images/hospital.jpg",
+      "description": "Provides a wide range of eye care services including cataract surgery, retinal surgeries, and corneal transplants."
+    },
+    {
+      "name": "Sai Baba Netralaya",
+      "address": "Nandanvan, Nagpur – 440009",
+      "phone": "+91 712 270 7070",
+      "image": "https://saibabanetralaya.com/images/sai-baba.jpg",
+      "description": "Offers advanced eye care treatments and surgeries with a focus on patient-centric services."
+    },
+    {
+      "name": "Sanjivani Eye Hospital",
+      "address": "Ramdaspeth, Nagpur – 440010",
+      "phone": "+91 712 245 1234",
+      "image": "https://sanjivanieyehospital.com/images/sanjivani.jpg",
+      "description": "Specializes in LASIK, cataract, and glaucoma surgeries with cutting-edge technology."
+    },
+    {
+      "name": "Netram Eye Hospital",
+      "address": "Sadar, Nagpur – 440001",
+      "phone": "+91 712 259 5959",
+      "image": "https://netrameyehospital.com/images/netram.jpg",
+      "description": "Provides comprehensive eye care services including pediatric ophthalmology and retinal surgeries."
+    },
+    {
+      "name": "Surya Netralaya",
+      "address": "Manewada Road, Nagpur – 440027",
+      "phone": "+91 712 274 4747",
+      "image": "https://suryanetralaya.com/images/surya.jpg",
+      "description": "A trusted name for advanced eye care treatments and surgeries with experienced specialists."
+    }
+  ]
+  
