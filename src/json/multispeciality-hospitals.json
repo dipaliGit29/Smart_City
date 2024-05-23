@@ -1,0 +1,87 @@
+[
+    {
+      "name": "Orange City Hospital & Research Institute",
+      "address": "19, Pandey Layout, Khamla Road, Near Vivekananda Nagar, Nagpur – 440015",
+      "phone": "+91 712 223 5200",
+      "image": "https://ochri.com/images/ochri.jpg",
+      "description": "A leading multispeciality hospital offering comprehensive healthcare services with advanced medical facilities."
+    },
+    {
+      "name": "Wockhardt Hospital",
+      "address": "27, Gokulpeth, Nagpur – 440010",
+      "phone": "+91 712 255 5555",
+      "image": "https://wockhardthospitals.com/images/wockhardt.jpg",
+      "description": "Wockhardt Hospital is known for its world-class medical infrastructure and a team of expert doctors across various specialties."
+    },
+    {
+      "name": "KIMS-Kingsway Hospitals",
+      "address": "5, Mohan Nagar, Near Dr. Babasaheb Ambedkar International Airport, Nagpur – 440001",
+      "phone": "+91 712 274 4444",
+      "image": "https://kimskingsway.com/images/kims.jpg",
+      "description": "KIMS-Kingsway Hospitals offers state-of-the-art healthcare services and modern medical facilities in various specialties."
+    },
+    {
+      "name": "Lifeline Superspeciality Hospital",
+      "address": "12, Central Bazar Road, Ramdaspeth, Nagpur – 440010",
+      "phone": "+91 712 242 0202",
+      "image": "https://lifelinehospital.com/images/lifeline.jpg",
+      "description": "A renowned hospital providing specialized treatments and healthcare services with advanced technology."
+    },
+    {
+      "name": "Seven Star Hospital",
+      "address": "3, Wardha Road, Opp. Airport Metro Station, Nagpur – 440025",
+      "phone": "+91 712 664 7777",
+      "image": "https://sevenstarhospital.com/images/sevenstar.jpg",
+      "description": "Seven Star Hospital offers comprehensive healthcare services with a focus on patient care and advanced medical treatments."
+    },
+    {
+      "name": "Shalinitai Meghe Hospital & Research Center",
+      "address": "Hingna Road, Nagpur – 440016",
+      "phone": "+91 712 280 1040",
+      "image": "https://shalinitaihospital.com/images/shalinitai.jpg",
+      "description": "Known for its excellent healthcare services and a wide range of medical specialties."
+    },
+    {
+      "name": "Aarohi Hospital",
+      "address": "Plot No. 25, Gokul Housing Society, Wardha Road, Nagpur – 440022",
+      "phone": "+91 712 222 1234",
+      "image": "https://aarohihospital.com/images/aarohi.jpg",
+      "description": "A multispeciality hospital offering advanced medical treatments and facilities."
+    },
+    {
+      "name": "Getwell Hospital & Research Institute",
+      "address": "20, Kamgar Colony, Khamla Road, Nagpur – 440015",
+      "phone": "+91 712 229 5678",
+      "image": "https://getwellhospital.com/images/getwell.jpg",
+      "description": "Getwell Hospital is known for its state-of-the-art infrastructure and a team of experienced doctors."
+    },
+    {
+      "name": "Hope Hospital",
+      "address": "4, Manish Nagar, Near Besa Square, Nagpur – 440034",
+      "phone": "+91 712 229 4567",
+      "image": "https://hopehospital.com/images/hope.jpg",
+      "description": "Providing comprehensive healthcare services with a focus on patient satisfaction."
+    },
+    {
+      "name": "Avanti Institute of Cardiology",
+      "address": "8, Bajaj Nagar, Nagpur – 440010",
+      "phone": "+91 712 255 8900",
+      "image": "https://avanticardiology.com/images/avanti.jpg",
+      "description": "A specialized hospital focusing on cardiology and cardiac care with advanced medical facilities."
+    },
+    {
+      "name": "Shravan Hospital & Kidney Institute",
+      "address": "15, Central Avenue, Nagpur – 440018",
+      "phone": "+91 712 272 7777",
+      "image": "https://shravanhospital.com/images/shravan.jpg",
+      "description": "Known for its specialized kidney care and multispeciality healthcare services."
+    },
+    {
+      "name": "Dr. Arneja Heart & Multispeciality Hospital",
+      "address": "3, Nelson Square, Near Panchsheel Square, Nagpur – 440013",
+      "phone": "+91 712 275 5555",
+      "image": "https://arnejahospital.com/images/arneja.jpg",
+      "description": "A leading hospital providing specialized cardiac and multispeciality healthcare services."
+    }
+  ]
+  

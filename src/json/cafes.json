@@ -1,0 +1,83 @@
+[
+    {
+      "name": "Pablo - The Art Cafe Lounge",
+      "address": "123 Main St, Nagpur, Maharashtra 440001",
+      "contact": "+91-12345-67890",
+      "email": "contact@pabloartcafe.com",
+      "website": "http://www.pabloartcafe.com",
+      "image": "https://example.com/images/pablo.jpg"
+    },
+    {
+      "name": "The Breakfast Story",
+      "address": "456 Elm St, Nagpur, Maharashtra 440010",
+      "contact": "+91-98765-43210",
+      "email": "info@breakfaststory.com",
+      "website": "http://www.breakfaststory.com",
+      "image": "https://example.com/images/breakfaststory.jpg"
+    },
+    {
+      "name": "Three Beans Coffee Bar",
+      "address": "789 Oak St, Nagpur, Maharashtra 440020",
+      "contact": "+91-11223-44556",
+      "email": "hello@threebeanscoffee.com",
+      "website": "http://www.threebeanscoffee.com",
+      "image": "https://example.com/images/threebeans.jpg"
+    },
+    {
+      "name": "Corridor Seven Coffee Roasters",
+      "address": "101 Pine St, Nagpur, Maharashtra 440030",
+      "contact": "+91-22334-55667",
+      "email": "support@corridorseven.com",
+      "website": "http://www.corridorseven.com",
+      "image": "https://example.com/images/corridorseven.jpg"
+    },
+    {
+      "name": "CCD",
+      "address": "202 Maple St, Nagpur, Maharashtra 440040",
+      "contact": "+91-33445-66778",
+      "email": "service@ccd.com",
+      "website": "http://www.ccd.com",
+      "image": "https://example.com/images/ccd.jpg"
+    },
+    {
+      "name": "Zinea Cafe",
+      "address": "303 Cedar St, Nagpur, Maharashtra 440050",
+      "contact": "+91-44556-77889",
+      "email": "info@zineacafe.com",
+      "website": "http://www.zineacafe.com",
+      "image": "https://example.com/images/zinea.jpg"
+    },
+    {
+      "name": "Mocha",
+      "address": "404 Birch St, Nagpur, Maharashtra 440060",
+      "contact": "+91-55667-88990",
+      "email": "contact@mochacafe.com",
+      "website": "http://www.mochacafe.com",
+      "image": "https://example.com/images/mocha.jpg"
+    },
+    {
+      "name": "Firangish Cafe & Courtyard",
+      "address": "505 Spruce St, Nagpur, Maharashtra 440070",
+      "contact": "+91-66778-99001",
+      "email": "info@firangishcafe.com",
+      "website": "http://www.firangishcafe.com",
+      "image": "https://example.com/images/firangish.jpg"
+    },
+    {
+      "name": "Barista Cafe",
+      "address": "606 Palm St, Nagpur, Maharashtra 440080",
+      "contact": "+91-77889-00112",
+      "email": "hello@baristacafe.com",
+      "website": "http://www.baristacafe.com",
+      "image": "https://example.com/images/barista.jpg"
+    },
+    {
+      "name": "Cafe Wanderlust",
+      "address": "707 Willow St, Nagpur, Maharashtra 440090",
+      "contact": "+91-88990-11223",
+      "email": "support@cafewanderlust.com",
+      "website": "http://www.cafewanderlust.com",
+      "image": "https://example.com/images/wanderlust.jpg"
+    }
+  ]
+  

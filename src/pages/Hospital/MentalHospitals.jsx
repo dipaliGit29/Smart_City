@@ -1,14 +1,14 @@
 import React, { useState, useEffect } from "react";
 import Navbar from "../../components/Navbar";
 
-function EyeHospitalList() {
+function MentalHospitals() {
   const [hospitals, setHospitals] = useState([]);
 
   useEffect(() => {
     const fetchHospitals = async () => {
       try {
         // Fetching data from the JSON file
-        const response = await fetch("/src/json/eyeHospitals.json");
+        const response = await fetch("/src/json/mentalHospitals.json");
         const data = await response.json();
         setHospitals(data);
       } catch (error) {
@@ -22,7 +22,6 @@ function EyeHospitalList() {
   return (
     <>
       <Navbar />
-      
       <div className="container mx-auto h-screen bg-gray-900">
         <div className="flex flex-wrap justify-center bg-gray-900 text-white">
           {hospitals.map((hospital) => (
@@ -33,15 +32,18 @@ function EyeHospitalList() {
               <img className="w-full h-64" src={hospital.image} alt={hospital.name} />
               <div className="px-6 py-4">
                 <div className="font-bold text-xl mb-2">{hospital.name}</div>
-                <p className="text-gray-400 text-base">{hospital.description}</p>
-              </div>
-              <div className="px-6 py-4 flex flex-col gap-2">
-                <div className="block bg-gray-600 rounded-full px-3 py-1 text-sm font-semibold mr-2">
+                <p className="text-gray-400 text-base">
                   Address: {hospital.address}
-                </div>
-                <div className="block bg-gray-600 rounded-full px-3 py-1 text-sm font-semibold">
-                  Phone: {hospital.phone}
-                </div>
+                </p>
+                <p className="text-gray-400 text-base">
+                  Phone: {hospital.contact}
+                </p>
+                <p className="text-gray-400 text-base">
+                  Email: {hospital.email}
+                </p>
+                <p className="text-gray-400 text-base">
+                  Website: <a href={hospital.website} className="text-blue-500" target="_blank" rel="noopener noreferrer">{hospital.website}</a>
+                </p>
               </div>
             </div>
           ))}
@@ -51,4 +53,4 @@ function EyeHospitalList() {
   );
 }
 
-export default EyeHospitalList;
+export default MentalHospitals;

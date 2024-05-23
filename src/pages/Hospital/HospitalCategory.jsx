@@ -18,7 +18,7 @@ const HospitalCategory = () => {
 
         <div className='w-11/12 mx-auto grid place-items-center grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-6'>
 
-            <NavLink to="eyehospital" className='w-60 h-64 grid place-items-center border rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
+            <NavLink to="/eyehospital" className='w-60 h-64 grid place-items-center border rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
                 {/* <MdSecurity className='p-2 bg-blue-400 rounded-full text-white' size={45}/> */}
                 <FaRegEye className='p-2 size-24 bg-slate-500 rounded-full text-white' size={45}/>
               
@@ -29,7 +29,7 @@ const HospitalCategory = () => {
             </NavLink>
 
 
-            <NavLink  to="hotels" className='w-60 h-64 grid place-items-center border  rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
+            <NavLink  to="/multispeciality" className='w-60 h-64 grid place-items-center border  rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
                 {/* <MdStorage className='p-2 bg-blue-400 rounded-full text-white' size={45}/> */}
                 <FaBuilding className='p-2 size-24 bg-slate-500 rounded-full text-white' size={45} />
 
@@ -39,16 +39,16 @@ const HospitalCategory = () => {
             </NavLink>
 
 
-            <div className='w-60 h-64 grid place-items-center border rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
+            <NavLink to="/childrenhospital" className='w-60 h-64 grid place-items-center border rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
                 {/* <MdControlCamera className='p-2 bg-blue-400 rounded-full text-white' size={45}/> */}
                 <FaBaby className='p-2 size-24 bg-slate-500 rounded-full text-white' size={45}/>
                 <h1 className='font-semibold text-white text-xl py-2'>Children Hospital</h1>
 
                 <p className='text-white text-center'>Best children hospitals in nagpur</p>
-            </div>
+            </NavLink>
 
 
-            <NavLink to="tourist" className='w-60 h-64  grid place-items-center border rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
+            <NavLink to="/veterinaryhospitals" className='w-60 h-64  grid place-items-center border rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
                 {/* <MdOutlineWifiProtectedSetup className='p-2 bg-blue-400 rounded-full text-white' size={45}/> */}
                 <MdOutlinePets className='p-2 size-24 bg-slate-500 rounded-full text-white' size={45}/>
                 <h1 className='font-semibold text-white text-xl py-2'>Veterinary Hospitals</h1>
@@ -56,7 +56,7 @@ const HospitalCategory = () => {
                 <p className='text-white text-center'>Best Hospitals for your pets.</p>
             </NavLink>
 
-            <NavLink to="tourist" className='w-60 h-64 grid place-items-center border rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
+            <NavLink to="/maternityhospitals" className='w-60 h-64 grid place-items-center border rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
                 {/* <MdOutlineWifiProtectedSetup className='p-2 bg-blue-400 rounded-full text-white' size={45}/> */}
                 <FaPersonPregnant className='p-2 size-24 bg-slate-500 rounded-full text-white' size={45}/>
                 <h1 className='font-semibold text-white text-xl py-2'>Maternity Hospitals</h1>
@@ -64,7 +64,7 @@ const HospitalCategory = () => {
                 <p className='text-white text-center'>Best Maternity hospitals Nagpur.</p>
             </NavLink>
 
-            <NavLink to="tourist" className='w-60 h-64 grid place-items-center border rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
+            <NavLink to="/mentalhospitals" className='w-60 h-64 grid place-items-center border rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
                 {/* <MdOutlineWifiProtectedSetup className='p-2 bg-blue-400 rounded-full text-white' size={45}/> */}
                 <GiBrain className='p-2 size-24 bg-slate-500 rounded-full text-white' size={45}/>
                 <h1 className='font-semibold text-white text-xl py-2'>Mental Hospitals</h1>
@@ -72,7 +72,7 @@ const HospitalCategory = () => {
                 <p className='text-white text-center'>All mental hospitals in nagpur.</p>
             </NavLink>
 
-            <NavLink to="tourist" className='w-60 h-64 grid place-items-center border rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
+            <NavLink to="/mentalhospitals" className='w-60 h-64 grid place-items-center border rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
                 {/* <MdOutlineWifiProtectedSetup className='p-2 bg-blue-400 rounded-full text-white' size={45}/> */}
                 <PiBuildingApartment className='p-2 size-24 bg-slate-500 rounded-full text-white' size={45}/>
                 <h1 className='font-semibold text-white text-xl py-2'>Private Hospitals</h1>

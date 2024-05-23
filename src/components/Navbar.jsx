@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import { AiOutlineMenuFold,AiOutlineClose } from 'react-icons/ai'
 import { NavLink, useNavigate } from 'react-router-dom'
 import { Link } from 'react-scroll'
+import logo from '../assets/logo.jpg'
 
 const Navbar = () => {
     const [open, setOpen] = useState(false)
@@ -29,9 +30,10 @@ const Navbar = () => {
     <header className='w-full h-14 z-10 fixed bg-opacity-50 bg-slate-900 px-4 flex justify-between items-center'>
 
         {/* logo section */}
-        <h1 className='text-2xl font-[roboto] text-slate-100 font-bold'>
+        {/* <h1 className='text-2xl font-[roboto] text-slate-100 font-bold'>
         Smart City Connect
-        </h1>
+        </h1> */}
+        <img src={logo} alt="" srcSet="" className='object-cover h-14 w-20' /> 
 
         {/* desktop navigation section */}
         <ul className='hidden md:flex uppercase font-semibold text-slate-100 cursor-pointer space-x-6'>

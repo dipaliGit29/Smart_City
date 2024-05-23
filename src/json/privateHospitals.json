@@ -1,0 +1,83 @@
+[
+    {
+      "name": "KIMS-Kingsway Hospitals",
+      "address": "44, Kingsway, Nagpur 440001, India",
+      "contact": "+91-712-6165666",
+      "email": "info@kimshospitals.com",
+      "website": "https://www.kimshospitals.com",
+      "image": "https://www.kimshospitals.com/images/hospital.jpg"
+    },
+    {
+      "name": "CARE Hospitals",
+      "address": "3 Farmland, Panchsheel Square, Wardha Road, Nagpur, Maharashtra – 440012",
+      "contact": "+91-712-6165656",
+      "email": "info@carehospitals.com",
+      "website": "https://www.carehospitals.com",
+      "image": "https://www.carehospitals.com/images/hospital.jpg"
+    },
+    {
+      "name": "Wockhardt Hospitals",
+      "address": "27, Ambazari Rd, near Shankar Nagar Square, Nagpur, Maharashtra 440010",
+      "contact": "+91-712-6624444",
+      "email": "info@wockhardthospitals.com",
+      "website": "https://www.wockhardthospitals.com",
+      "image": "https://www.wockhardthospitals.com/images/hospital.jpg"
+    },
+    {
+      "name": "Alexis Multispeciality Hospital",
+      "address": "NH-44, Mankapur Bypass Road, Nagpur, Maharashtra 440030",
+      "contact": "+91-712-7120000",
+      "email": "info@alexishospital.com",
+      "website": "https://www.alexishospital.com",
+      "image": "https://www.alexishospital.com/images/hospital.jpg"
+    },
+    {
+      "name": "Orange City Hospital & Research Institute",
+      "address": "19, Pande Layout, Khamla Road - Ring Road Junction, Veer Savarkar Square, Nagpur - 440015",
+      "contact": "+91-712-6634800",
+      "email": "contact@ochri.org",
+      "website": "https://www.ochri.org",
+      "image": "https://www.ochri.org/images/hospital.jpg"
+    },
+    {
+      "name": "Junankar Hospital",
+      "address": "JP Chambers, Ambardekar Sankul, S Ambazari Rd, near Dominos Pizza, Mate Chowk, Madhav Nagar, Nagpur, Maharashtra 440010",
+      "contact": "+91-712-2222222",
+      "email": "info@junankarhospital.com",
+      "website": "https://www.junankarhospital.com",
+      "image": "https://www.junankarhospital.com/images/hospital.jpg"
+    },
+    {
+      "name": "Meditrina Hospital",
+      "address": "Kamptee Road, Near Mankapur Flyover, Nagpur, Maharashtra 440030",
+      "contact": "+91-712-6666666",
+      "email": "info@meditrinahospital.com",
+      "website": "https://www.meditrinainstitute.com",
+      "image": "https://www.meditrinainstitute.com/images/hospital.jpg"
+    },
+    {
+      "name": "Central Avenue Critical Care Hospital & ICCU",
+      "address": "Mahalaxmi Complex, Darodkar Square, Central Avenue, Nagpur - 440008",
+      "contact": "+91-712-2772772",
+      "email": "info@caccchospital.com",
+      "website": "https://www.caccchospital.com",
+      "image": "https://www.caccchospital.com/images/hospital.jpg"
+    },
+    {
+      "name": "KRIMS Hospital",
+      "address": "275, Central Bazar Road, Ramdaspet, Nagpur - 440010",
+      "contact": "+91-712-2450000",
+      "email": "info@krimshospital.com",
+      "website": "https://www.krimshospital.com",
+      "image": "https://www.krimshospital.com/images/hospital.jpg"
+    },
+    {
+      "name": "Sushrut Hospital Research Centre & PGIO",
+      "address": "Central Bazar Road, Ramdaspeth, Nagpur - 440010",
+      "contact": "+91-712-2442244",
+      "email": "info@sushruthospital.com",
+      "website": "https://www.sushruthospital.com",
+      "image": "https://www.sushruthospital.com/images/hospital.jpg"
+    }
+  ]
+  

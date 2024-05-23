@@ -1,0 +1,73 @@
+[
+    {
+      "name": "Dr. Bhosale Pet Clinic",
+      "address": "12, Laxmi Nagar, Near Hanuman Mandir, Nagpur – 440022",
+      "phone": "+91 712 223 3333",
+      "image": "https://example.com/images/drbhosale.jpg",
+      "description": "Dr. Bhosale Pet Clinic offers comprehensive veterinary services including diagnostics, surgery, and preventive care."
+    },
+    {
+      "name": "Nagpur Pet Clinic",
+      "address": "25, Dharampeth, Opposite Coffee House, Nagpur – 440010",
+      "phone": "+91 712 255 4444",
+      "image": "https://example.com/images/nagpurpetclinic.jpg",
+      "description": "Nagpur Pet Clinic is known for its dedicated team of veterinarians providing top-notch care for pets."
+    },
+    {
+      "name": "Animal Care Centre",
+      "address": "10, Wardha Road, Near Airport Metro Station, Nagpur – 440025",
+      "phone": "+91 712 268 5555",
+      "image": "https://example.com/images/animalcarecentre.jpg",
+      "description": "Animal Care Centre offers a wide range of veterinary services including emergency care and advanced treatments."
+    },
+    {
+      "name": "Pets Life Veterinary Hospital",
+      "address": "18, Central Bazar Road, Ramdaspeth, Nagpur – 440010",
+      "phone": "+91 712 242 6666",
+      "image": "https://example.com/images/petslife.jpg",
+      "description": "Pets Life Veterinary Hospital provides specialized healthcare services for pets with modern medical facilities."
+    },
+    {
+      "name": "Happy Tails Pet Clinic",
+      "address": "3, Manish Nagar, Near Besa Square, Nagpur – 440034",
+      "phone": "+91 712 229 7777",
+      "image": "https://example.com/images/happytails.jpg",
+      "description": "Happy Tails Pet Clinic is dedicated to offering the best veterinary care for your pets with a focus on their well-being."
+    },
+    {
+      "name": "Care & Cure Veterinary Clinic",
+      "address": "15, Central Avenue, Near Nehru Chowk, Nagpur – 440018",
+      "phone": "+91 712 273 8888",
+      "image": "https://example.com/images/carecure.jpg",
+      "description": "Care & Cure Veterinary Clinic provides comprehensive veterinary services, ensuring the health and happiness of your pets."
+    },
+    {
+      "name": "City Pet Clinic",
+      "address": "22, Bajaj Nagar, Nagpur – 440010",
+      "phone": "+91 712 255 9999",
+      "image": "https://example.com/images/citypetclinic.jpg",
+      "description": "City Pet Clinic offers a range of veterinary services with a team of experienced veterinarians."
+    },
+    {
+      "name": "Pet Health Centre",
+      "address": "8, Wardha Road, Opposite Hotel Radisson Blu, Nagpur – 440015",
+      "phone": "+91 712 668 1010",
+      "image": "https://example.com/images/pethealthcentre.jpg",
+      "description": "Pet Health Centre is committed to providing excellent veterinary care with advanced medical facilities for pets."
+    },
+    {
+      "name": "Advanced Pet Clinic",
+      "address": "5, Hingna Road, Near MIDC, Nagpur – 440016",
+      "phone": "+91 712 222 2020",
+      "image": "https://example.com/images/advancedpetclinic.jpg",
+      "description": "Advanced Pet Clinic offers state-of-the-art veterinary services for pets, ensuring their health and well-being."
+    },
+    {
+      "name": "VetCare Animal Hospital",
+      "address": "30, Great Nag Road, Near Gandhi Nagar, Nagpur – 440009",
+      "phone": "+91 712 272 3030",
+      "image": "https://example.com/images/vetcare.jpg",
+      "description": "VetCare Animal Hospital provides comprehensive veterinary services, focusing on preventive care and advanced treatments."
+    }
+  ]
+  

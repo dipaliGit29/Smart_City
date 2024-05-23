@@ -1,0 +1,73 @@
+[
+    {
+      "name": "Orange City Hospital & Research Institute",
+      "address": "19, Pandey Layout, Khamla Road, Nagpur – 440025",
+      "phone": "+91 712 663 4888",
+      "image": "https://example.com/images/orangecityhospital.jpg",
+      "description": "Orange City Hospital offers comprehensive maternity services with modern medical facilities and experienced staff."
+    },
+    {
+      "name": "Lata Mangeshkar Hospital",
+      "address": "Digdoh Hills, Hingna Road, Nagpur – 440019",
+      "phone": "+91 712 280 1800",
+      "image": "https://example.com/images/latamangeshkarhospital.jpg",
+      "description": "Lata Mangeshkar Hospital provides top-notch maternity care with state-of-the-art facilities and specialized services."
+    },
+    {
+      "name": "Care Hospital",
+      "address": "3, Farmland, Ramdaspeth, Nagpur – 440010",
+      "phone": "+91 712 301 0111",
+      "image": "https://example.com/images/carehospital.jpg",
+      "description": "Care Hospital offers a range of maternity services with a focus on patient comfort and advanced medical care."
+    },
+    {
+      "name": "Avanti Institute of Cardiology",
+      "address": "5, North Ambazari Road, Nagpur – 440033",
+      "phone": "+91 712 224 0224",
+      "image": "https://example.com/images/avanticardiology.jpg",
+      "description": "Avanti Institute provides comprehensive maternity services alongside its renowned cardiology department."
+    },
+    {
+      "name": "Noble Hospital",
+      "address": "33, New Ramdaspeth, Lokmat Square, Nagpur – 440010",
+      "phone": "+91 712 662 5555",
+      "image": "https://example.com/images/noblehospital.jpg",
+      "description": "Noble Hospital offers specialized maternity care with modern facilities and a dedicated team of healthcare professionals."
+    },
+    {
+      "name": "Shalinitai Meghe Hospital & Research Centre",
+      "address": "Sawangi (Meghe), Wardha Road, Nagpur – 442001",
+      "phone": "+91 7152 287 701",
+      "image": "https://example.com/images/shalinitaimeghe.jpg",
+      "description": "Shalinitai Meghe Hospital provides excellent maternity care with a focus on patient well-being and advanced medical treatments."
+    },
+    {
+      "name": "KRIMS Hospitals",
+      "address": "275, Central Bazar Road, Ramdaspeth, Nagpur – 440010",
+      "phone": "+91 712 245 1188",
+      "image": "https://example.com/images/krimshospitals.jpg",
+      "description": "KRIMS Hospitals offer comprehensive maternity services with a dedicated team and modern medical facilities."
+    },
+    {
+      "name": "Spandan Hospital & Janani Fertility Centre",
+      "address": "6, West High Court Road, Shankar Nagar, Nagpur – 440010",
+      "phone": "+91 712 222 7227",
+      "image": "https://example.com/images/spandanhospital.jpg",
+      "description": "Spandan Hospital provides specialized maternity and fertility services with a focus on patient care and advanced treatments."
+    },
+    {
+      "name": "Getwell Hospital & Research Institute",
+      "address": "20, Farmland, Ramdaspeth, Nagpur – 440010",
+      "phone": "+91 712 663 7100",
+      "image": "https://example.com/images/getwellhospital.jpg",
+      "description": "Getwell Hospital offers comprehensive maternity care with state-of-the-art facilities and a dedicated team."
+    },
+    {
+      "name": "Aarogyam Super Speciality Hospital",
+      "address": "1, Wardha Road, Near Ajni Square, Nagpur – 440015",
+      "phone": "+91 712 277 0077",
+      "image": "https://example.com/images/aarogyam.jpg",
+      "description": "Aarogyam Super Speciality Hospital provides excellent maternity services with modern facilities and specialized care."
+    }
+  ]
+  

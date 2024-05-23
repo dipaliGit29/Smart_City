@@ -1,0 +1,73 @@
+[
+    {
+      "name": "Suretech Hospital & Research Centre",
+      "address": "Ring Road, T Point, Nara, Nagpur – 440014",
+      "phone": "+91 712 229 4444",
+      "image": "https://suretechhospital.com/images/suretech.jpg",
+      "description": "A well-known hospital offering specialized pediatric care and comprehensive healthcare services."
+    },
+    {
+      "name": "KRIMS Hospitals",
+      "address": "275, Central Bazar Road, Ramdaspeth, Nagpur – 440010",
+      "phone": "+91 712 245 1188",
+      "image": "https://krimshospitals.com/images/krims.jpg",
+      "description": "KRIMS Hospitals provide advanced pediatric treatments and state-of-the-art facilities for children."
+    },
+    {
+      "name": "New Era Hospital",
+      "address": "4, Wardha Road, Near Hotel Radisson Blu, Nagpur – 440015",
+      "phone": "+91 712 668 8888",
+      "image": "https://newerahospital.com/images/newera.jpg",
+      "description": "New Era Hospital is dedicated to offering the best pediatric healthcare services in Nagpur."
+    },
+    {
+      "name": "Asha Hospital",
+      "address": "36, Great Nag Road, Near Gandhi Nagar, Nagpur – 440009",
+      "phone": "+91 712 272 7800",
+      "image": "https://ashahospital.com/images/asha.jpg",
+      "description": "Asha Hospital specializes in pediatric care and offers a range of healthcare services for children."
+    },
+    {
+      "name": "Raisoni Multispeciality Hospital",
+      "address": "10, Hingna Road, Near MIDC, Nagpur – 440016",
+      "phone": "+91 712 222 5555",
+      "image": "https://raisonihospital.com/images/raisoni.jpg",
+      "description": "Providing comprehensive pediatric care with modern medical facilities and expert doctors."
+    },
+    {
+      "name": "Rainbow Children's Hospital",
+      "address": "7, Central Avenue, Near Nehru Chowk, Nagpur – 440018",
+      "phone": "+91 712 273 7070",
+      "image": "https://rainbowhospitals.com/images/rainbow.jpg",
+      "description": "A renowned children's hospital offering specialized treatments and advanced healthcare services."
+    },
+    {
+      "name": "N K P Salve Institute of Medical Sciences & Research Centre",
+      "address": "Digdoh Hills, Hingna Road, Nagpur – 440019",
+      "phone": "+91 712 274 2424",
+      "image": "https://nkpsalveinstitute.com/images/nkpsalve.jpg",
+      "description": "NKP Salve Institute provides high-quality pediatric care with state-of-the-art medical facilities."
+    },
+    {
+      "name": "Gandhi Nagar Multispeciality Hospital",
+      "address": "12, Koradi Road, Near Gandhi Nagar, Nagpur – 440030",
+      "phone": "+91 712 265 5656",
+      "image": "https://gandhinagarhospital.com/images/gandhinagar.jpg",
+      "description": "A leading multispeciality hospital with a dedicated pediatric department offering comprehensive care."
+    },
+    {
+      "name": "KidzCare Children's Hospital",
+      "address": "8, Manish Nagar, Near Besa Square, Nagpur – 440034",
+      "phone": "+91 712 229 5678",
+      "image": "https://kidzcarehospital.com/images/kidzcare.jpg",
+      "description": "Specialized in pediatric care, KidzCare provides a range of healthcare services for children."
+    },
+    {
+      "name": "Vidarbha Children's Hospital",
+      "address": "5, Bajaj Nagar, Nagpur – 440010",
+      "phone": "+91 712 255 6789",
+      "image": "https://vidarbhachildrenshospital.com/images/vidarbha.jpg",
+      "description": "Offering comprehensive pediatric healthcare services with a focus on patient care and advanced treatments."
+    }
+  ]
+  

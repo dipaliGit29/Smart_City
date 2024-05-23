@@ -1,0 +1,83 @@
+[
+    {
+      "name": "Bhave Institute of Mental Health",
+      "address": "Ramdaspeth, Nagpur, Maharashtra - 440010, India",
+      "contact": "+91 712 2452070",
+      "email": "info@bimh.co.in",
+      "website": "http://www.bimh.co.in",
+      "image": "https://example.com/image_bimh.jpg"
+    },
+    {
+      "name": "Aasthaa Hospital",
+      "address": "Ramdaspeth, Nagpur, Maharashtra - 440010, India",
+      "contact": "+91 712 2522555",
+      "email": "contact@asthahospital.in",
+      "website": "http://www.asthahospital.in",
+      "image": "https://example.com/image_asthaa.jpg"
+    },
+    {
+      "name": "Shree Mental Health Clinic And Child Clinic",
+      "address": "2nd Floor, Shri Swami Arcade, WHC Road, Dharampeth, Nagpur, Maharashtra - 440010, India",
+      "contact": "+91 712 2537865",
+      "email": "info@shreementalhealthclinic.in",
+      "website": "http://www.shreementalhealthclinic.in",
+      "image": "https://example.com/image_shree.jpg"
+    },
+    {
+      "name": "Govt Mental Hospital",
+      "address": "Regional Mental Hospital, Koradi Road, Chhindwara Road, Nagpur, Maharashtra - 440001, India",
+      "contact": "+91 712 2597500",
+      "email": "contact@govtmentalhospital.in",
+      "website": "http://www.govtmentalhospital.in",
+      "image": "https://example.com/image_govt.jpg"
+    },
+    {
+      "name": "Hope Hospitals",
+      "address": "Kamptee Road, Teka Naka, Nagpur, Maharashtra - 440017, India",
+      "contact": "+91 712 2560506",
+      "email": "info@hopehospitals.in",
+      "website": "http://www.hopehospitals.in",
+      "image": "https://example.com/image_hope.jpg"
+    },
+    {
+      "name": "Aakar Clinics",
+      "address": "Nagpur, Maharashtra - 440001, India",
+      "contact": "+91 712 2777007",
+      "email": "info@aakarclinics.in",
+      "website": "http://www.aakarclinics.in",
+      "image": "https://example.com/image_aakar.jpg"
+    },
+    {
+      "name": "Rudraksh Multispeciality Hospital",
+      "address": "Amravati Road, Nagpur, Maharashtra - 440023, India",
+      "contact": "+91 712 2580581",
+      "email": "contact@rudrakshhospital.in",
+      "website": "http://www.rudrakshhospital.in",
+      "image": "https://example.com/image_rudraksh.jpg"
+    },
+    {
+      "name": "Iieh",
+      "address": "Shankar Nagar, Nagpur, Maharashtra - 440010, India",
+      "contact": "+91 712 2765976",
+      "email": "info@iieh.in",
+      "website": "http://www.iieh.in",
+      "image": "https://example.com/image_iieh.jpg"
+    },
+    {
+      "name": "Dr. Akshay Sarode Psychiatrist and Counsellor",
+      "address": "Gandhibagh, Nagpur, Maharashtra - 440002, India",
+      "contact": "+91 9371884908",
+      "email": "info@akshaysarode.in",
+      "website": "http://www.akshaysarode.in",
+      "image": "https://example.com/image_akshay.jpg"
+    },
+    {
+      "name": "Hypnosis Healing Foundation",
+      "address": "Chatrapati Nagar, Nagpur, Maharashtra - 440027, India",
+      "contact": "+91 712 2743765",
+      "email": "info@hypnosishealing.in",
+      "website": "http://www.hypnosishealing.in",
+      "image": "https://example.com/image_hypnosis.jpg"
+    }
+  ]
+  
