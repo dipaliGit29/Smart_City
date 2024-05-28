@@ -2,6 +2,10 @@ import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import { MdSecurity, MdStorage, MdControlCamera, MdOutlineWifiProtectedSetup, MdLocalHospital, MdHotel, MdOutlineRestaurantMenu, MdTour } from 'react-icons/md';
 import { NavLink } from 'react-router-dom';
+import { CgGym } from 'react-icons/cg';
+import { PiBuildingOffice } from 'react-icons/pi';
+import { FaScrewdriverWrench } from 'react-icons/fa6';
+import { GiLipstick } from 'react-icons/gi';
 
 // const API_KEY= import.meta.env.VITE_APP_WEATHER_API_KEY;
 
@@ -9,7 +13,7 @@ const About = () => {
   const [weather, setWeather] = useState(null);
   const [error, setError] = useState(null);
 
-  useEffect(() => {
+  useEffect(() => { 
     const fetchWeather = async () => {
       try {
         const response = await axios.get('https://api.openweathermap.org/data/2.5/weather', {
@@ -29,7 +33,7 @@ const About = () => {
   }, []);
 
   return (
-    <section name='about' className='w-full md:h-screen flex flex-col justify-center items-center bg-black px-6 py-6'>
+    <section name='about' className='w-full  h-auto flex flex-col justify-center items-center bg-black px-6 py-6'>
 
         {/* Weather Report Section */}
       <div className='w-11/12  mx-auto my-6 p-6 bg-gray-800 text-white rounded-lg'>
@@ -76,6 +80,27 @@ const About = () => {
           <h1 className='font-semibold text-white text-xl py-2'>Tourist Attractions</h1>
           <p className='text-white'>In Nagpur, the top tourist attractions blend history, culture, and breathtaking scenery, captivating visitors with iconic landmarks, immersive experiences, and a rich tapestry of sights and sounds that promise unforgettable adventures, making them must-visit destinations for travelers seeking to explore our vibrant cityscape.</p>
         </NavLink>
+        <NavLink to="gyms" className='border rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
+          <CgGym className='p-2 size-24 bg-green-950 rounded-full text-white' size={45}/>
+          <h1 className='font-semibold text-white text-xl py-2'>Gyms</h1>
+          <p className='text-white'>In Nagpur, the best gyms are known for their state-of-the-art equipment, expert trainers, and comprehensive fitness programs, making them the ultimate destinations for health and wellness enthusiasts in our community.</p>
+        </NavLink>
+        <NavLink to="hostels" className='border rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
+          <PiBuildingOffice className='p-2 size-24 bg-yellow-950 rounded-full text-white' size={45}/>
+          <h1 className='font-semibold text-white text-xl py-2'>PG's & Hostels</h1>
+          <p className='text-white'>In Nagpur, the best PGs and hostels provide comfortable living spaces, modern amenities, and a safe environment, ensuring a home-like experience for students and working professionals in our community.</p>
+        </NavLink>
+        <NavLink to="repaircategory" className='border rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
+          <FaScrewdriverWrench className='p-2 size-24 bg-gray-600 rounded-full text-white' size={45}/>
+          <h1 className='font-semibold text-white text-xl py-2'>Repair Services</h1>
+          <p className='text-white'>In Nagpur, the best repair services are known for their skilled technicians, prompt service, and reliable solutions, ensuring your devices and appliances are back in working order with minimal hassle.</p>
+        </NavLink>
+        <NavLink to="beautyspa" className='border rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
+          <GiLipstick className='p-2 size-24 bg-pink-500 rounded-full text-white' size={45}/>
+          <h1 className='font-semibold text-white text-xl py-2'>Beauty Spa</h1>
+          <p className='text-white'>In Nagpur, the best beauty spas offer a luxurious retreat, with a range of pampering treatments, skilled therapists, and rejuvenating experiences, ensuring you leave feeling refreshed, relaxed, and radiant.</p>
+        </NavLink>
+        
       </div>
     </section>
   );

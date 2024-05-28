@@ -1,0 +1,82 @@
+[
+    {
+        "name": "CoolTech AC Repair",
+        "address": "123 ABC Street, Nagpur, Maharashtra 440001",
+        "contact": "0712-1234567",
+        "email": "info@cooltechacrepair.com",
+        "website": "http://www.cooltechacrepair.com",
+        "image": "https://example.com/images/cooltechacrepair.jpg"
+    },
+    {
+        "name": "AirCare Solutions",
+        "address": "456 XYZ Road, Nagpur, Maharashtra 440002",
+        "contact": "0712-9876543",
+        "email": "info@aircaresolutions.com",
+        "website": "http://www.aircaresolutions.com",
+        "image": "https://example.com/images/aircaresolutions.jpg"
+    },
+    {
+        "name": "ChillZone AC Services",
+        "address": "789 PQR Lane, Nagpur, Maharashtra 440003",
+        "contact": "0712-4567890",
+        "email": "info@chillzoneac.com",
+        "website": "http://www.chillzoneac.com",
+        "image": "https://example.com/images/chillzoneac.jpg"
+    },
+    {
+        "name": "BreezeCool Repair",
+        "address": "234 LMN Avenue, Nagpur, Maharashtra 440004",
+        "contact": "0712-2345678",
+        "email": "info@breezecoolrepair.com",
+        "website": "http://www.breezecoolrepair.com",
+        "image": "https://example.com/images/breezecoolrepair.jpg"
+    },
+    {
+        "name": "FrostFix AC Services",
+        "address": "567 GHI Street, Nagpur, Maharashtra 440005",
+        "contact": "0712-8765432",
+        "email": "info@frostfixac.com",
+        "website": "http://www.frostfixac.com",
+        "image": "https://example.com/images/frostfixac.jpg"
+    },
+    {
+        "name": "ClimateControl Experts",
+        "address": "890 DEF Road, Nagpur, Maharashtra 440006",
+        "contact": "0712-3456789",
+        "email": "info@climatecontrolexperts.com",
+        "website": "http://www.climatecontrolexperts.com",
+        "image": "https://example.com/images/climatecontrolexperts.jpg"
+    },
+    {
+        "name": "CoolWave AC Repair",
+        "address": "101 IJK Street, Nagpur, Maharashtra 440007",
+        "contact": "0712-6543210",
+        "email": "info@coolwaveac.com",
+        "website": "http://www.coolwaveac.com",
+        "image": "https://example.com/images/coolwaveac.jpg"
+    },
+    {
+        "name": "AC Masters",
+        "address": "112 MNO Lane, Nagpur, Maharashtra 440008",
+        "contact": "0712-9876543",
+        "email": "info@acmasters.com",
+        "website": "http://www.acmasters.com",
+        "image": "https://example.com/images/acmasters.jpg"
+    },
+    {
+        "name": "CoolBreeze Services",
+        "address": "223 QRS Road, Nagpur, Maharashtra 440009",
+        "contact": "0712-5432167",
+        "email": "info@coolbreezeservices.com",
+        "website": "http://www.coolbreezeservices.com",
+        "image": "https://example.com/images/coolbreezeservices.jpg"
+    },
+    {
+        "name": "ComfortZone AC Repair",
+        "address": "334 STU Avenue, Nagpur, Maharashtra 440010",
+        "contact": "0712-7654321",
+        "email": "info@comfortzoneac.com",
+        "website": "http://www.comfortzoneac.com",
+        "image": "https://example.com/images/comfortzoneac.jpg"
+    }
+]

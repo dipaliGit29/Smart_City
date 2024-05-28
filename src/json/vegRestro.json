@@ -1,0 +1,83 @@
+[
+    {
+      "name": "Shruti Veg Restaurant",
+      "address": "27 Surendranagar,  Vivekanand Nagar, Nagpur, MH",
+      "contact": "+91 97660 63409",
+      "email": "info@shrutivegrestaurant.com",
+      "website": "http://www.shrutivegrestaurant.com",
+      "image": "https://example.com/shruti-veg.jpg"
+    },
+    {
+      "name": "Haldiram's",
+      "address": "Anjuman Complex, Sadar Bazar, Nagpur 440001",
+      "contact": "+91 70300 00146",
+      "email": "contact@haldirams.com",
+      "website": "http://www.haldirams.com",
+      "image": "https://example.com/haldirams.jpg"
+    },
+    {
+      "name": "Veeraswami",
+      "address": "Sitabuldi, Nagpur",
+      "contact": "+91 71225 34234",
+      "email": "info@veeraswami.com",
+      "website": "http://www.veeraswami.com",
+      "image": "https://example.com/veeraswami.jpg"
+    },
+    {
+      "name": "Naivedhyam",
+      "address": "North Ambazari Road, Dharampeth, Nagpur",
+      "contact": "+91 71225 40585",
+      "email": "contact@naivedhyam.com",
+      "website": "http://www.naivedhyam.com",
+      "image": "https://example.com/naivedhyam.jpg"
+    },
+    {
+      "name": "Vikram's Kitchen",
+      "address": "CA Road, Nagpur",
+      "contact": "+91 71225 60500",
+      "email": "info@vikramskitchen.com",
+      "website": "http://www.vikramskitchen.com",
+      "image": "https://example.com/vikramskitchen.jpg"
+    },
+    {
+      "name": "Fountain Sizzlers & Bistro",
+      "address": "Panchsheel Square, Nagpur",
+      "contact": "+91 71225 79999",
+      "email": "info@fountainsizzlers.com",
+      "website": "http://www.fountainsizzlers.com",
+      "image": "https://example.com/fountainsizzlers.jpg"
+    },
+    {
+      "name": "Uttar Dakshin",
+      "address": "Multiple Locations, Nagpur",
+      "contact": "+91 91722 28243",
+      "email": "info@uttardakshin.com",
+      "website": "http://www.uttardakshin.com",
+      "image": "https://example.com/uttardakshin.jpg"
+    },
+    {
+      "name": "Veggietude",
+      "address": "Pratap Nagar, Nagpur",
+      "contact": "+91 71225 61800",
+      "email": "contact@veggietude.com",
+      "website": "http://www.veggietude.com",
+      "image": "https://example.com/veggietude.jpg"
+    },
+    {
+      "name": "Madras Kitchen",
+      "address": "Variety Square, Sitabuldi, Nagpur",
+      "contact": "+91 71225 35400",
+      "email": "info@madras-kitchen.com",
+      "website": "http://www.madras-kitchen.com",
+      "image": "https://example.com/madras-kitchen.jpg"
+    },
+    {
+      "name": "Gayatri Bhojnalaya",
+      "address": "Laxmi Bhavan Chowk, Dharampeth, Nagpur",
+      "contact": "+91 71225 30000",
+      "email": "contact@gayatrijbhojnalaya.com",
+      "website": "http://www.gayatrijbhojnalaya.com",
+      "image": "https://example.com/gayatrijbhojnalaya.jpg"
+    }
+  ]
+  

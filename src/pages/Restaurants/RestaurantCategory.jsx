@@ -20,7 +20,7 @@ const RestaurantCateory = () => {
 
         <div className='w-11/12 mx-auto grid place-items-center grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-6'>
 
-            <NavLink to="/eyehospital" className='w-60 h-64 grid place-items-center border rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
+            <NavLink to="/vegrestro" className='w-60 h-64 grid place-items-center border rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
                 
                 <LuVegan className='p-2 size-24 bg-green-500 rounded-full text-white' size={45}/>
                 {/* <img className="w-24 h-24" src="https://tse1.mm.bing.net/th?id=OIP.ADJx8eJlx4PpilCtg0JJ5wHaIK&pid=Api&P=0&h=180" alt="Dhaba Image" /> */}
@@ -32,7 +32,7 @@ const RestaurantCateory = () => {
             </NavLink>
 
 
-            <NavLink  to="/multispeciality" className='w-60 h-64 grid place-items-center border  rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
+            <NavLink  to="/nonvegrestro" className='w-60 h-64 grid place-items-center border  rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
                 {/* <MdStorage className='p-2 bg-blue-400 rounded-full text-white' size={45}/> */}
                 <GiChickenOven className='p-2 size-24 bg-red-700 rounded-full text-white' size={45} />
 
@@ -51,7 +51,7 @@ const RestaurantCateory = () => {
             </NavLink>
 
 
-            <NavLink to="/veterinaryhospitals" className='w-60 h-64  grid place-items-center border rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
+            <NavLink to="/pubs" className='w-60 h-64  grid place-items-center border rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
                 {/* <MdOutlineWifiProtectedSetup className='p-2 bg-blue-400 rounded-full text-white' size={45}/> */}
                 <CiBeerMugFull className='p-2 size-24 bg-yellow-400 rounded-full text-white' size={45}/>
                 <h1 className='font-semibold text-white text-xl py-2'>Pubs</h1>

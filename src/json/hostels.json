@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Cozy Dormitory",
+        "address": "123 ABC Street, Nagpur, Maharashtra 440001",
+        "contact": "0712-1234567",
+        "email": "info@cozydorm.com",
+        "website": "http://www.cozydorm.com",
+        "image": "https://example.com/images/cozydorm.jpg"
+    },
+    {
+        "name": "City Haven PG",
+        "address": "456 XYZ Road, Nagpur, Maharashtra 440002",
+        "contact": "0712-9876543",
+        "email": "info@cityhavenpg.com",
+        "website": "http://www.cityhavenpg.com",
+        "image": "https://example.com/images/cityhavenpg.jpg"
+    },
+    {
+        "name": "Sunrise Hostel",
+        "address": "789 PQR Lane, Nagpur, Maharashtra 440003",
+        "contact": "0712-4567890",
+        "email": "info@sunrisehostel.com",
+        "website": "http://www.sunrisehostel.com",
+        "image": "https://example.com/images/sunrisehostel.jpg"
+    },
+    {
+        "name": "Green View PG",
+        "address": "234 LMN Avenue, Nagpur, Maharashtra 440004",
+        "contact": "0712-2345678",
+        "email": "info@greenviewpg.com",
+        "website": "http://www.greenviewpg.com",
+        "image": "https://example.com/images/greenviewpg.jpg"
+    },
+    {
+        "name": "Comfort Living Hostel",
+        "address": "567 GHI Street, Nagpur, Maharashtra 440005",
+        "contact": "0712-8765432",
+        "email": "info@comfortlivinghostel.com",
+        "website": "http://www.comfortlivinghostel.com",
+        "image": "https://example.com/images/comfortlivinghostel.jpg"
+    },
+    {
+        "name": "Skyline PG",
+        "address": "890 DEF Road, Nagpur, Maharashtra 440006",
+        "contact": "0712-3456789",
+        "email": "info@skylinepg.com",
+        "website": "http://www.skylinepg.com",
+        "image": "https://example.com/images/skylinepg.jpg"
+    },
+    {
+        "name": "Happy Nest Hostel",
+        "address": "101 IJK Street, Nagpur, Maharashtra 440007",
+        "contact": "0712-6543210",
+        "email": "info@happynesthostel.com",
+        "website": "http://www.happynesthostel.com",
+        "image": "https://example.com/images/happynesthostel.jpg"
+    },
+    {
+        "name": "Rainbow PG",
+        "address": "112 MNO Lane, Nagpur, Maharashtra 440008",
+        "contact": "0712-9876543",
+        "email": "info@rainbowpg.com",
+        "website": "http://www.rainbowpg.com",
+        "image": "https://example.com/images/rainbowpg.jpg"
+    },
+    {
+        "name": "Zenith Hostel",
+        "address": "223 QRS Road, Nagpur, Maharashtra 440009",
+        "contact": "0712-5432167",
+        "email": "info@zenithhostel.com",
+        "website": "http://www.zenithhostel.com",
+        "image": "https://example.com/images/zenithhostel.jpg"
+    },
+    {
+        "name": "Tranquil PG",
+        "address": "334 STU Avenue, Nagpur, Maharashtra 440010",
+        "contact": "0712-7654321",
+        "email": "info@tranquilpg.com",
+        "website": "http://www.tranquilpg.com",
+        "image": "https://example.com/images/tranquilpg.jpg"
+    }
+]

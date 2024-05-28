@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Speedy Moto Repair",
+        "address": "123 ABC Street, Nagpur, Maharashtra 440001",
+        "contact": "0712-1234567",
+        "email": "info@speedymotorepair.com",
+        "website": "http://www.speedymotorepair.com",
+        "image": "https://example.com/images/speedymotorepair.jpg"
+    },
+    {
+        "name": "Bike Fix Garage",
+        "address": "456 XYZ Road, Nagpur, Maharashtra 440002",
+        "contact": "0712-9876543",
+        "email": "info@bikefixgarage.com",
+        "website": "http://www.bikefixgarage.com",
+        "image": "https://example.com/images/bikefixgarage.jpg"
+    },
+    {
+        "name": "Moto Care Center",
+        "address": "789 PQR Lane, Nagpur, Maharashtra 440003",
+        "contact": "0712-4567890",
+        "email": "info@motocarecenter.com",
+        "website": "http://www.motocarecenter.com",
+        "image": "https://example.com/images/motocarecenter.jpg"
+    },
+    {
+        "name": "Two Wheeler Clinic",
+        "address": "234 LMN Avenue, Nagpur, Maharashtra 440004",
+        "contact": "0712-2345678",
+        "email": "info@twowheelerclinic.com",
+        "website": "http://www.twowheelerclinic.com",
+        "image": "https://example.com/images/twowheelerclinic.jpg"
+    },
+    {
+        "name": "Revive Bike Service",
+        "address": "567 GHI Street, Nagpur, Maharashtra 440005",
+        "contact": "0712-8765432",
+        "email": "info@revivebikeservice.com",
+        "website": "http://www.revivebikeservice.com",
+        "image": "https://example.com/images/revivebikeservice.jpg"
+    },
+    {
+        "name": "Ultimate Moto Garage",
+        "address": "890 DEF Road, Nagpur, Maharashtra 440006",
+        "contact": "0712-3456789",
+        "email": "info@ultimatemotogarage.com",
+        "website": "http://www.ultimatemotogarage.com",
+        "image": "https://example.com/images/ultimatemotogarage.jpg"
+    },
+    {
+        "name": "Bike Doctor",
+        "address": "101 IJK Street, Nagpur, Maharashtra 440007",
+        "contact": "0712-6543210",
+        "email": "info@bikedoctor.com",
+        "website": "http://www.bikedoctor.com",
+        "image": "https://example.com/images/bikedoctor.jpg"
+    },
+    {
+        "name": "Pro Moto Repair",
+        "address": "112 MNO Lane, Nagpur, Maharashtra 440008",
+        "contact": "0712-9876543",
+        "email": "info@promotorepair.com",
+        "website": "http://www.promotorepair.com",
+        "image": "https://example.com/images/promotorepair.jpg"
+    },
+    {
+        "name": "Speedster Bike Service",
+        "address": "223 QRS Road, Nagpur, Maharashtra 440009",
+        "contact": "0712-5432167",
+        "email": "info@speedsterbikeservice.com",
+        "website": "http://www.speedsterbikeservice.com",
+        "image": "https://example.com/images/speedsterbikeservice.jpg"
+    },
+    {
+        "name": "Elite Moto Works",
+        "address": "334 STU Avenue, Nagpur, Maharashtra 440010",
+        "contact": "0712-7654321",
+        "email": "info@elitemotoworks.com",
+        "website": "http://www.elitemotoworks.com",
+        "image": "https://example.com/images/elitemotoworks.jpg"
+    }
+]

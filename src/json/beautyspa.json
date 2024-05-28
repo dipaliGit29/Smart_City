@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Glow Beauty Spa",
+        "address": "123 ABC Street, Nagpur, Maharashtra 440001",
+        "contact": "0712-1234567",
+        "email": "info@glowbeautyspa.com",
+        "website": "http://www.glowbeautyspa.com",
+        "image": "https://example.com/images/glowbeautyspa.jpg"
+    },
+    {
+        "name": "Divine Salon & Spa",
+        "address": "456 XYZ Road, Nagpur, Maharashtra 440002",
+        "contact": "0712-9876543",
+        "email": "info@divinesalonspa.com",
+        "website": "http://www.divinesalonspa.com",
+        "image": "https://example.com/images/divinesalonspa.jpg"
+    },
+    {
+        "name": "Blissful Beauty Studio",
+        "address": "789 PQR Lane, Nagpur, Maharashtra 440003",
+        "contact": "0712-4567890",
+        "email": "info@blissfulbeautystudio.com",
+        "website": "http://www.blissfulbeautystudio.com",
+        "image": "https://example.com/images/blissfulbeautystudio.jpg"
+    },
+    {
+        "name": "Heavenly Touch Spa",
+        "address": "234 LMN Avenue, Nagpur, Maharashtra 440004",
+        "contact": "0712-2345678",
+        "email": "info@heavenlytouchspa.com",
+        "website": "http://www.heavenlytouchspa.com",
+        "image": "https://example.com/images/heavenlytouchspa.jpg"
+    },
+    {
+        "name": "Serenity Salon & Spa",
+        "address": "567 GHI Street, Nagpur, Maharashtra 440005",
+        "contact": "0712-8765432",
+        "email": "info@serenitysalonspa.com",
+        "website": "http://www.serenitysalonspa.com",
+        "image": "https://example.com/images/serenitysalonspa.jpg"
+    },
+    {
+        "name": "Tranquil Beauty Center",
+        "address": "890 DEF Road, Nagpur, Maharashtra 440006",
+        "contact": "0712-3456789",
+        "email": "info@tranquilbeautycenter.com",
+        "website": "http://www.tranquilbeautycenter.com",
+        "image": "https://example.com/images/tranquilbeautycenter.jpg"
+    },
+    {
+        "name": "Elysian Spa & Wellness",
+        "address": "101 IJK Street, Nagpur, Maharashtra 440007",
+        "contact": "0712-6543210",
+        "email": "info@elysianspa.com",
+        "website": "http://www.elysianspa.com",
+        "image": "https://example.com/images/elysianspa.jpg"
+    },
+    {
+        "name": "Radiance Beauty Lounge",
+        "address": "112 MNO Lane, Nagpur, Maharashtra 440008",
+        "contact": "0712-9876543",
+        "email": "info@radiancebeautylounge.com",
+        "website": "http://www.radiancebeautylounge.com",
+        "image": "https://example.com/images/radiancebeautylounge.jpg"
+    },
+    {
+        "name": "Zenith Spa Retreat",
+        "address": "223 QRS Road, Nagpur, Maharashtra 440009",
+        "contact": "0712-5432167",
+        "email": "info@zenithsparetreat.com",
+        "website": "http://www.zenithsparetreat.com",
+        "image": "https://example.com/images/zenithsparetreat.jpg"
+    },
+    {
+        "name": "Tranquility Beauty Spa",
+        "address": "334 STU Avenue, Nagpur, Maharashtra 440010",
+        "contact": "0712-7654321",
+        "email": "info@tranquilitybeautyspa.com",
+        "website": "http://www.tranquilitybeautyspa.com",
+        "image": "https://example.com/images/tranquilitybeautyspa.jpg"
+    }
+]

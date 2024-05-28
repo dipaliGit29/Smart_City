@@ -1,0 +1,83 @@
+[
+    {
+      "name": "Babbu's Galaxy Restaurant",
+      "address": "Opposite Moil Office, Chhaoni Road, Katol Road, Nagpur, MH 440013",
+      "contact": "09370589111",
+      "email": "info@babbusgalaxy.com",
+      "website": "http://www.babbusgalaxy.com",
+      "image": "https://example.com/images/babbus_galaxy.jpg"
+    },
+    {
+      "name": "Ashoka Restaurant",
+      "address": "60, Mount Road, Opposite LIC Office, Sadar 60, Nagpur, MH 440001",
+      "contact": "07122567225",
+      "email": "contact@ashokarestaurant.com",
+      "website": "http://www.ashokarestaurant.com",
+      "image": "https://example.com/images/ashoka_restaurant.jpg"
+    },
+    {
+      "name": "Lucknowala - Biryani Restaurant",
+      "address": "Shop No. 4, 1st Floor, Poonam Arcade, Residency Rd, Sadar, Nagpur, Maharashtra 440001",
+      "contact": "09011007200",
+      "email": "info@lucknowala.com",
+      "website": "http://www.lucknowala.com",
+      "image": "https://example.com/images/lucknowala.jpg"
+    },
+    {
+      "name": "Tadka Restaurant & Caterers",
+      "address": "Plot no.7, Beside Traffic Park, Dharampeth, Bhagwaghar Layout, Nagpur, Maharashtra 440010",
+      "contact": "07122534060",
+      "email": "contact@tadkarestaurant.com",
+      "website": "http://www.tadkarestaurant.com",
+      "image": "https://example.com/images/tadka_restaurant.jpg"
+    },
+    {
+      "name": "Aarohi The Grill House",
+      "address": "1, Wardha Road Near Bus Stop, Chinchbhawan, Beltarodi, Nagpur, Maharashtra 440025",
+      "contact": "07122677444",
+      "email": "info@aarohigrillhouse.com",
+      "website": "http://www.aarohigrillhouse.com",
+      "image": "https://example.com/images/aarohi_grill_house.jpg"
+    },
+    {
+      "name": "Puran Singh Dhaba",
+      "address": "Wardha Road, Nagpur, Maharashtra 440015",
+      "contact": "07122783377",
+      "email": "info@puransinghdhaba.com",
+      "website": "http://www.puransinghdhaba.com",
+      "image": "https://example.com/images/puran_singh_dhaba.jpg"
+    },
+    {
+      "name": "Arabian Dawat",
+      "address": "Mangalwari Complex, Nagpur, Maharashtra 440013",
+      "contact": "09325345212",
+      "email": "contact@arabiandawat.com",
+      "website": "http://www.arabiandawat.com",
+      "image": "https://example.com/images/arabian_dawat.jpg"
+    },
+    {
+      "name": "Hotel Shaheen International",
+      "address": "Hingana Road, Nagpur, Maharashtra 440016",
+      "contact": "07122233445",
+      "email": "info@shaheeninternational.com",
+      "website": "http://www.shaheeninternational.com",
+      "image": "https://example.com/images/shaheen_international.jpg"
+    },
+    {
+      "name": "Paanch Phoron",
+      "address": "Dharampeth, Nagpur, Maharashtra 440010",
+      "contact": "07122345456",
+      "email": "info@paanchphoron.com",
+      "website": "http://www.paanchphoron.com",
+      "image": "https://example.com/images/paanch_phoron.jpg"
+    },
+    {
+      "name": "Kareem's Hotel",
+      "address": "Nelson Sqr, Nagpur, Maharashtra 440012",
+      "contact": "07122244745",
+      "email": "contact@apsarabar.com",
+      "website": "http://www.kareems.com",
+      "image": "https://example.com/images/kareems.jpg"
+    }
+  ]
+  

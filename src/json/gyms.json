@@ -1,0 +1,82 @@
+[
+    {
+      "name": "Fit-Box Gym",
+      "address": "3rd Floor, NMC Complex, Law College Square, Amravati Road, Dharampeth, Nagpur, Maharashtra 440010",
+      "contact": "0712-2220220",
+      "email": "info@fitboxgym.com",
+      "website": "http://www.fitboxgym.com",
+      "image": "https://example.com/images/fitboxgym.jpg"
+    },
+    {
+      "name": "Gold's Gym",
+      "address": "Mangalwari Bazar Road, Sadar, Nagpur, Maharashtra 440001",
+      "contact": "0712-2544412",
+      "email": "info@goldsgym.com",
+      "website": "http://www.goldsgym.com",
+      "image": "https://example.com/images/goldsgym.jpg"
+    },
+    {
+      "name": "Fitness Factory",
+      "address": "NIT Complex, Variety Square, Sitabuldi, Nagpur, Maharashtra 440012",
+      "contact": "0712-2555123",
+      "email": "contact@fitnessfactory.com",
+      "website": "http://www.fitnessfactory.com",
+      "image": "https://example.com/images/fitnessfactory.jpg"
+    },
+    {
+      "name": "BodyCraft Fitness Club",
+      "address": "Beside Avanti Vihar Gate, Dharampeth, Nagpur, Maharashtra 440010",
+      "contact": "0712-2567890",
+      "email": "info@bodycraftfitness.com",
+      "website": "http://www.bodycraftfitness.com",
+      "image": "https://example.com/images/bodycraftfitness.jpg"
+    },
+    {
+      "name": "Powerhouse Gym",
+      "address": "Ravi Nagar, Nagpur, Maharashtra 440001",
+      "contact": "0712-2687654",
+      "email": "info@powerhousegym.com",
+      "website": "http://www.powerhousegym.com",
+      "image": "https://example.com/images/powerhousegym.jpg"
+    },
+    {
+      "name": "Muscle Mania Gym",
+      "address": "Bajaj Nagar, Nagpur, Maharashtra 440010",
+      "contact": "0712-2778899",
+      "email": "info@musclemania.com",
+      "website": "http://www.musclemania.com",
+      "image": "https://example.com/images/musclemania.jpg"
+    },
+    {
+      "name": "Iron Core Fitness Studio",
+      "address": "Panchsheel Square, Wardhaman Nagar, Nagpur, Maharashtra 440008",
+      "contact": "0712-2866677",
+      "email": "info@ironcorefitness.com",
+      "website": "http://www.ironcorefitness.com",
+      "image": "https://example.com/images/ironcorefitness.jpg"
+    },
+    {
+      "name": "Fitness Freaks Gym",
+      "address": "Ram Nagar, Nagpur, Maharashtra 440010",
+      "contact": "0712-2999911",
+      "email": "info@fitnessfreaks.com",
+      "website": "http://www.fitnessfreaks.com",
+      "image": "https://example.com/images/fitnessfreaks.jpg"
+    },
+    {
+      "name": "Flex Fitness Center",
+      "address": "Sadar, Nagpur, Maharashtra 440001",
+      "contact": "0712-3111122",
+      "email": "info@flexfitness.com",
+      "website": "http://www.flexfitness.com",
+      "image": "https://example.com/images/flexfitness.jpg"
+    },
+    {
+      "name": "Ironworks Gym",
+      "address": "Beside Trimurti Nagar Bus Stop, Trimurti Nagar, Nagpur, Maharashtra 440022",
+      "contact": "0712-3222233",
+      "email": "info@ironworksgym.com",
+      "website": "http://www.ironworksgym.com",
+      "image": "https://example.com/images/ironworksgym.jpg"
+    }
+]

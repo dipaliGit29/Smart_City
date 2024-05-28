@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Quick Fix Auto Repair",
+        "address": "123 ABC Street, Nagpur, Maharashtra 440001",
+        "contact": "0712-1234567",
+        "email": "info@quickfixauto.com",
+        "website": "http://www.quickfixauto.com",
+        "image": "https://example.com/images/quickfixauto.jpg"
+    },
+    {
+        "name": "Reliable Car Service",
+        "address": "456 XYZ Road, Nagpur, Maharashtra 440002",
+        "contact": "0712-9876543",
+        "email": "info@reliablecarservice.com",
+        "website": "http://www.reliablecarservice.com",
+        "image": "https://example.com/images/reliablecarservice.jpg"
+    },
+    {
+        "name": "Expert Auto Care",
+        "address": "789 PQR Lane, Nagpur, Maharashtra 440003",
+        "contact": "0712-4567890",
+        "email": "info@expertautocare.com",
+        "website": "http://www.expertautocare.com",
+        "image": "https://example.com/images/expertautocare.jpg"
+    },
+    {
+        "name": "Supreme Car Workshop",
+        "address": "234 LMN Avenue, Nagpur, Maharashtra 440004",
+        "contact": "0712-2345678",
+        "email": "info@supremecarworkshop.com",
+        "website": "http://www.supremecarworkshop.com",
+        "image": "https://example.com/images/supremecarworkshop.jpg"
+    },
+    {
+        "name": "Precision Auto Repair",
+        "address": "567 GHI Street, Nagpur, Maharashtra 440005",
+        "contact": "0712-8765432",
+        "email": "info@precisionauto.com",
+        "website": "http://www.precisionauto.com",
+        "image": "https://example.com/images/precisionauto.jpg"
+    },
+    {
+        "name": "Driveway Mechanics",
+        "address": "890 DEF Road, Nagpur, Maharashtra 440006",
+        "contact": "0712-3456789",
+        "email": "info@drivewaymechanics.com",
+        "website": "http://www.drivewaymechanics.com",
+        "image": "https://example.com/images/drivewaymechanics.jpg"
+    },
+    {
+        "name": "All Star Auto Care",
+        "address": "101 IJK Street, Nagpur, Maharashtra 440007",
+        "contact": "0712-6543210",
+        "email": "info@allstarauto.com",
+        "website": "http://www.allstarauto.com",
+        "image": "https://example.com/images/allstarauto.jpg"
+    },
+    {
+        "name": "Car Clinic",
+        "address": "112 MNO Lane, Nagpur, Maharashtra 440008",
+        "contact": "0712-9876543",
+        "email": "info@carclinic.com",
+        "website": "http://www.carclinic.com",
+        "image": "https://example.com/images/carclinic.jpg"
+    },
+    {
+        "name": "Premier Car Service",
+        "address": "223 QRS Road, Nagpur, Maharashtra 440009",
+        "contact": "0712-5432167",
+        "email": "info@premiercarservice.com",
+        "website": "http://www.premiercarservice.com",
+        "image": "https://example.com/images/premiercarservice.jpg"
+    },
+    {
+        "name": "Elite Auto Works",
+        "address": "334 STU Avenue, Nagpur, Maharashtra 440010",
+        "contact": "0712-7654321",
+        "email": "info@eliteautoworks.com",
+        "website": "http://www.eliteautoworks.com",
+        "image": "https://example.com/images/eliteautoworks.jpg"
+    }
+]

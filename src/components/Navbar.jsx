@@ -3,6 +3,8 @@ import { AiOutlineMenuFold,AiOutlineClose } from 'react-icons/ai'
 import { NavLink, useNavigate } from 'react-router-dom'
 import { Link } from 'react-scroll'
 import logo from '../assets/logo.jpg'
+import CityDropdown from './CityDropdown'
+import { FaLocationDot } from 'react-icons/fa6'
 
 const Navbar = () => {
     const [open, setOpen] = useState(false)
@@ -35,8 +37,15 @@ const Navbar = () => {
         </h1> */}
         <img src={logo} alt="" srcSet="" className='object-cover h-14 w-20' /> 
 
+        <div className='flex gap-2'>
+          <FaLocationDot className='text-white'/>
+          <CityDropdown/>
+        </div>
+
         {/* desktop navigation section */}
         <ul className='hidden md:flex uppercase font-semibold text-slate-100 cursor-pointer space-x-6'>
+
+         
 
             <li>
             <NavLink to="/">

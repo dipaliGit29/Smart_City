@@ -1,0 +1,83 @@
+[
+    {
+      "name": "10 Downing Street",
+      "address": "Plot 15, VIP Road, Somalwada, Nagpur, Maharashtra 440025",
+      "contact": "0712-2282828",
+      "email": "info@10downingstreet.com",
+      "website": "http://www.10downingstreet.com",
+      "image": "https://example.com/images/10downingstreet.jpg"
+    },
+    {
+      "name": "Fionaa Lounge & Restaurant",
+      "address": "Central Bazar Road, Ramdaspeth, Nagpur, Maharashtra 440010",
+      "contact": "0712-2451234",
+      "email": "info@fionaa.com",
+      "website": "http://www.fionaa.com",
+      "image": "https://example.com/images/fionaa.jpg"
+    },
+    {
+      "name": "Café Mint",
+      "address": "Wardha Road, Opposite Airport, Nagpur, Maharashtra 440025",
+      "contact": "0712-2292288",
+      "email": "contact@cafemint.com",
+      "website": "http://www.cafemint.com",
+      "image": "https://example.com/images/cafemint.jpg"
+    },
+    {
+      "name": "House of Beer",
+      "address": "Futala Road, Ambazari, Nagpur, Maharashtra 440033",
+      "contact": "0712-2202202",
+      "email": "info@houseofbeer.com",
+      "website": "http://www.houseofbeer.com",
+      "image": "https://example.com/images/houseofbeer.jpg"
+    },
+    {
+      "name": "The Boozy Griffin",
+      "address": "Plot No 50, WHC Road, Dharampeth, Nagpur, Maharashtra 440010",
+      "contact": "0712-2345678",
+      "email": "contact@theboozygriffin.com",
+      "website": "http://www.theboozygriffin.com",
+      "image": "https://example.com/images/theboozygriffin.jpg"
+    },
+    {
+      "name": "The Irish House",
+      "address": "Trillium Mall, Medical Square, Nagpur, Maharashtra 440003",
+      "contact": "0712-2456789",
+      "email": "info@theirishhouse.com",
+      "website": "http://www.theirishhouse.com",
+      "image": "https://example.com/images/theirishhouse.jpg"
+    },
+    {
+      "name": "Three Beans",
+      "address": "VCA Complex, Civil Lines, Nagpur, Maharashtra 440001",
+      "contact": "0712-2525252",
+      "email": "contact@threebeans.com",
+      "website": "http://www.threebeans.com",
+      "image": "https://example.com/images/threebeans.jpg"
+    },
+    {
+      "name": "Liquid Lounge",
+      "address": "Gokulpeth, Near VNIT College, Nagpur, Maharashtra 440020",
+      "contact": "0712-2424242",
+      "email": "info@liquidlounge.com",
+      "website": "http://www.liquidlounge.com",
+      "image": "https://example.com/images/liquidlounge.jpg"
+    },
+    {
+      "name": "Mocha",
+      "address": "Dharampeth Extension, Nagpur, Maharashtra 440010",
+      "contact": "0712-2542542",
+      "email": "info@mocha.com",
+      "website": "http://www.mocha.com",
+      "image": "https://example.com/images/mocha.jpg"
+    },
+    {
+      "name": "Neck of the Woods",
+      "address": "West High Court Road, Nagpur, Maharashtra 440010",
+      "contact": "0712-2626262",
+      "email": "info@neckofthewoods.com",
+      "website": "http://www.neckofthewoods.com",
+      "image": "https://example.com/images/neckofthewoods.jpg"
+    }
+  ]
+  
