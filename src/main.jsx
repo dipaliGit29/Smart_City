@@ -34,6 +34,7 @@ import RepairCategory from "./pages/Repair/RepairCategory.jsx";
 import MotorcycleRepair from "./pages/Repair/MotorCycleRepair.jsx";
 import CarRepair from "./pages/Repair/CarRepair.jsx";
 import AcRepair from "./pages/Repair/AcRepair.jsx";
+import PrivateHospitals from "./pages/Hospital/PrivateHospitals.jsx";
 
 const router = createBrowserRouter(
   createRoutesFromElements(
@@ -59,6 +60,7 @@ const router = createBrowserRouter(
       <Route path="veterinaryhospitals" element={<VeterinaryHospitalList />} />
       <Route path="maternityhospitals" element={<MaternityHospital />} />
       <Route path="mentalhospitals" element={<MentalHospitals />} />
+      <Route path="privatehospitals" element={<PrivateHospitals />} />
       {/* Restaurants */}
       <Route path="restaurantscat" element={<RestaurantCateory />} />
       <Route path="cafes" element={<Cafes />} />

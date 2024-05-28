@@ -72,7 +72,7 @@ const HospitalCategory = () => {
                 <p className='text-white text-center'>All mental hospitals in nagpur.</p>
             </NavLink>
 
-            <NavLink to="/mentalhospitals" className='w-60 h-64 grid place-items-center border rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
+            <NavLink to="/privatehospitals" className='w-60 h-64 grid place-items-center border rounded p-6 hover:scale-105 duration-300 cursor-pointer'>
                 {/* <MdOutlineWifiProtectedSetup className='p-2 bg-blue-400 rounded-full text-white' size={45}/> */}
                 <PiBuildingApartment className='p-2 size-24 bg-slate-500 rounded-full text-white' size={45}/>
                 <h1 className='font-semibold text-white text-xl py-2'>Private Hospitals</h1>

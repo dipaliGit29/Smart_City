@@ -24,11 +24,12 @@ function EyeHospitalList() {
       <Navbar />
       
       <div className="container mx-auto h-screen bg-gray-900">
+        <h2 className="text-white  text-center py-16 text-2xl font-extrabold">Eye Hospitals</h2>
         <div className="flex flex-wrap justify-center bg-gray-900 text-white">
           {hospitals.map((hospital) => (
             <div
               key={hospital.name}
-              className="max-w-sm m-4 mt-20 rounded overflow-hidden shadow-lg bg-gray-800"
+              className="max-w-sm m-4  rounded overflow-hidden shadow-lg bg-gray-800"
             >
               <img className="w-full h-64" src={hospital.image} alt={hospital.name} />
               <div className="px-6 py-4">

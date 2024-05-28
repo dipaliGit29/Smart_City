@@ -22,11 +22,12 @@ function VegRestaurants() {
     <>
       <Navbar />
       <div className="container mx-auto h-screen bg-gray-900">
+      <h2 className="text-white  text-center py-16 text-2xl font-extrabold">Veg Restaurants</h2>
         <div className="flex flex-wrap justify-center bg-gray-900 text-white">
           {restaurants.map((restaurant) => (
             <div
               key={restaurant.name}
-              className="w-full mt-20 sm:w-1/2 md:w-1/3 lg:w-1/3 p-4"
+              className="w-full  sm:w-1/2 md:w-1/3 lg:w-1/3 p-4"
             >
               <div className="rounded overflow-hidden shadow-lg bg-gray-800">
                 <img className="w-full h-64 object-cover" src={restaurant.image} alt={restaurant.name} />
