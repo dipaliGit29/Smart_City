@@ -7,7 +7,7 @@ import { PiBuildingOffice } from 'react-icons/pi';
 import { FaScrewdriverWrench } from 'react-icons/fa6';
 import { GiLipstick } from 'react-icons/gi';
 
-// const API_KEY= import.meta.env.VITE_APP_WEATHER_API_KEY;
+const API_KEY= import.meta.env.VITE_APP_WEATHER_API_KEY;
 
 const About = () => {
   const [weather, setWeather] = useState(null);

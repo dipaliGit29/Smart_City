@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { AiOutlineMenuFold,AiOutlineClose } from 'react-icons/ai'
 import { NavLink, useNavigate } from 'react-router-dom'
 import { Link } from 'react-scroll'
-import logo from '../assets/logo.jpg'
+import logo from '../assets/project.png'
 import CityDropdown from './CityDropdown'
 import { FaLocationDot } from 'react-icons/fa6'
 
